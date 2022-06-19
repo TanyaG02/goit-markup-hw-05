@@ -188,6 +188,10 @@ body {
 }
 
 .header-mail-tel {
+  margin-right: 50px;
+}
+
+.header-mail-tel:last-child {
   margin-right: 0;
 }
 
